@@ -1,0 +1,203 @@
+@charset "utf-8";
+
+#content_section {
+  width: 970px;
+  display: block;
+  float: left;
+  background: #131313
+    url(../i/adlp/video-production/dark_template_content_bg.jpg) repeat-x !important;
+  padding: 15px;
+}
+#custom_content_section {
+  padding: 0px !important;
+  width: 970px !important;
+  overflow: hidden !important;
+}
+
+#first_tab {
+  background: url(../i/adlp/video-production/tab_bg.jpg);
+  width: 970px;
+}
+
+#second_tab {
+  background: url(../i/adlp/video-production/tab_bg.jpg);
+  width: 970px;
+}
+
+.mtext1 {
+  margin-top: -350px;
+  font-family: Calibri;
+  color: #ff0000;
+  font-size: 22px;
+  margin-left: 35px;
+}
+
+.mtext2 {
+  font-family: Calibri;
+  font-size: 22px;
+  margin-top: -5px;
+  margin-left: 35px;
+  color: #0096d6;
+}
+
+.tab1text {
+  width: 350px;
+  margin-top: -130px;
+  margin-left: 520px;
+}
+
+.tab1text1 {
+  margin-top: -30px;
+  font-size: 22px;
+  font-family: Calibri;
+  color: #ffffff;
+}
+
+.tab1text2 {
+  font-size: 16px;
+  font-family: Calibri;
+  color: #989898;
+}
+
+.tab1text3 {
+  font-size: 16px;
+  font-family: Calibri;
+  color: #989898;
+}
+
+.lastdiv {
+  margin-left: 35px;
+  padding-bottom: 30px;
+  width: 880px;
+}
+
+.lineone {
+  font-size: 14px;
+  font-family: Calibri;
+  color: #989898;
+}
+
+.linetwo {
+  font-size: 12px;
+  font-family: Calibri;
+  color: #989898;
+}
+
+.text1title {
+  margin-top: -45px;
+  margin-left: 70px;
+  font-size: 18px;
+  font-family: Calibri;
+  color: #ffffff;
+}
+
+.text1 {
+  margin-left: 70px;
+  font-size: 14px;
+  font-family: Calibri;
+  color: #989898;
+}
+
+.text2title {
+  margin-top: -40px;
+  margin-left: 70px;
+  font-size: 18px;
+  font-family: Calibri;
+  color: #ffffff;
+}
+
+.text2 {
+  margin-left: 70px;
+  font-size: 14px;
+  font-family: Calibri;
+  color: #989898;
+}
+
+.text3title {
+  margin-top: -55px;
+  margin-left: 70px;
+  font-size: 18px;
+  font-family: Calibri;
+  color: #ffffff;
+}
+
+.text3 {
+  margin-left: 70px;
+  font-size: 14px;
+  font-family: Calibri;
+  color: #989898;
+}
+
+.text4title {
+  margin-top: -45px;
+  margin-left: 70px;
+  font-size: 18px;
+  font-family: Calibri;
+  color: #ffffff;
+}
+
+.text4 {
+  margin-left: 70px;
+  font-size: 14px;
+  font-family: Calibri;
+  color: #989898;
+}
+
+.text5title {
+  margin-top: -45px;
+  margin-left: 70px;
+  font-size: 18px;
+  font-family: Calibri;
+  color: #ffffff;
+}
+
+.text5 {
+  margin-left: 70px;
+  font-size: 14px;
+  font-family: Calibri;
+  color: #989898;
+}
+
+.text6title {
+  margin-top: -45px;
+  margin-left: 70px;
+  font-size: 18px;
+  font-family: Calibri;
+  color: #ffffff;
+}
+
+.text6 {
+  margin-left: 70px;
+  font-size: 14px;
+  font-family: Calibri;
+  color: #989898;
+}
+
+.text7title {
+  margin-top: -55px;
+  margin-left: 70px;
+  font-size: 18px;
+  font-family: Calibri;
+  color: #ffffff;
+}
+
+.text7 {
+  margin-left: 70px;
+  font-size: 14px;
+  font-family: Calibri;
+  color: #989898;
+}
+
+.prodico {
+  margin-right: 15px;
+}
+
+.bottomimg {
+  margin-left: 640px;
+  margin-top: -105px;
+}
+
+.imgrail {
+  margin-left: 35px;
+  margin-top: 70px;
+}
